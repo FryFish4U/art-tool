@@ -18,7 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## Using the Art-Tool
 
-The Art-Tool uses html's Canvas Element for user-feedback and interactibility and is difficult to fully make mobile compatible.
+![Screenshot 2024-08-28 at 09-53-47 ](https://github.com/user-attachments/assets/7a8ba06a-1238-4394-8acb-10a59f4822c1)
+
+
+The Art-Tool uses HTML's Canvas Element for user-feedback and interactibility and is difficult to fully make mobile compatible.
 Hopefully, the current adjustments in the page's layout is sufficient even though it's not perfect.
 
 ## Notes
